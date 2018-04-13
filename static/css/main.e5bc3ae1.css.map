@@ -1,0 +1,1 @@
+{"version":3,"sources":["style/style.css"],"names":[],"mappings":"AAAA,EACI,UAAY,CAGhB,OACI,gBAAkB","file":"static/css/main.e5bc3ae1.css","sourcesContent":["* {\n    margin: 5px;\n}\n\nform a {\n    margin-left: 10px;\n}\n\n\n\n\n// WEBPACK FOOTER //\n// ./src/style/style.css"],"sourceRoot":""}
